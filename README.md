@@ -21,6 +21,12 @@ Navigate to the project directory: cd ratelimitting <br>
 Build the application: mvn package <br>
 Run the application: java -jar target/sratelimitting.jar
 
+# Dependency Used
+
+Resilience4j is a lightweight fault tolerance library that provides a variety of fault tolerance and stability patterns to a web application.
+
+
+
 
 # Configuration
 The application uses the following configuration files:<br>
