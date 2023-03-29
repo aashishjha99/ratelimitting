@@ -61,7 +61,6 @@ public class User {
   @Column(name = "mother_name")
   private String motherName;
 
-  @NotNull
   @JsonDeserialize(using = LocalDateDeserializer.class)
   @JsonSerialize(using = LocalDateSerializer.class)
   @DateTimeFormat(iso = ISO.DATE)

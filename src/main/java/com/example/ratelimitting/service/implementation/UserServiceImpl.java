@@ -5,7 +5,8 @@ import com.example.ratelimitting.entity.User;
 import com.example.ratelimitting.model.UserDao;
 import com.example.ratelimitting.repository.UserRepo;
 import com.example.ratelimitting.service.UserService;
-import com.example.ratelimitting.service.status.Status;
+import com.example.ratelimitting.status.Status;
+
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 
