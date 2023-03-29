@@ -44,3 +44,6 @@ POST /api/v1/save: save user object
 
 ![Screenshot from 2023-03-29 12-05-08](https://user-images.githubusercontent.com/60545932/228570290-8e7d702f-5848-4795-8ab2-b65eec4348ee.png)
 
+![Screenshot from 2023-03-29 12-05-21](https://user-images.githubusercontent.com/60545932/228570515-c6d8dd78-fe4a-4518-8234-eebcefd02c58.png)
+
+
