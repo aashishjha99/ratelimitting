@@ -38,3 +38,9 @@ To use the application, make HTTP requests to the following endpoints:<br>
 
 GET /api/save/{empid}: returns a simple JSON response.<br>
 POST /api/v1/save: save user object
+
+
+# Screenshots 
+
+![Screenshot from 2023-03-29 12-05-08](https://user-images.githubusercontent.com/60545932/228570290-8e7d702f-5848-4795-8ab2-b65eec4348ee.png)
+
